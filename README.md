@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello dudes 👋
 
-I'm a SW Engineer learning stuff and having fun.
+### I'm a SW Engineer learning stuff and having fun.
 
 <!--
 **kimble71/kimble71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
